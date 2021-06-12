@@ -50,4 +50,4 @@ Para a consulta do CEP, usamos a API ViaCEP. Utilizamos o Postman para fazer os 
  O Retorno esperado é:
  ![image](https://user-images.githubusercontent.com/43194285/121762812-a26d8800-cb0e-11eb-804b-101abe30cd11.png)
 
-Devido ao tempo, infelizmente não foi possível implementar a model de log_cep, onde a mesma iria armazenar as consultas dos CEP's dos usuários, e também os testes specs.
+Devido ao tempo, infelizmente não foi possível implementar a model de log_cep, onde a mesma iria armazenar as consultas dos CEP's dos usuários, e também os testes specs. Também deixei um PR como close, para exemplificar aprovações de alterações no sistemas por parte da equipe de Dev's.
